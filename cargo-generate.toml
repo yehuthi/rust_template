@@ -1,0 +1,6 @@
+[template]
+include = ["Cargo.toml", "README.md"]
+
+[placeholders.description]
+type = "string"
+prompt = "Project description"
